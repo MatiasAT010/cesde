@@ -42,4 +42,14 @@ Si necesita que nos preparemos para parar o seguir alumbra amarillo
    FINsi
 FIN
 2.![image](https://github.com/user-attachments/assets/6edea65c-076e-42c3-a0f2-fa3a0bdcde31)
-3.
+3. * O(n)
+   * O(n2)
+   * O(log n)
+4. Algoritmo: factorial_un_num
+   ESCRIBIR "a que numero le quieres sacar el factorial?"
+   LEER n
+   SI n=5 entonces 5*5*4*3*2*1= resultado
+   MOSTRAR resultado
+   FINsi
+   FIN
+   
