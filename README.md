@@ -22,3 +22,24 @@ Si necesita que nos preparemos para parar o seguir alumbra amarillo
    hasta que en el 14 se disminuye el crecimiento a tan solo 2
    y 15 solamente un crecimiento
    **Clase 2**
+1. Escribir en pseudocódigo un algoritmo que determine si un número es par o impar.
+2. Dibujar un diagrama de flujo que represente el proceso de inscripción en una plataforma en línea.
+3. Analizar la eficiencia de los siguientes algoritmos y expresarla en notación Big-O:
+*Búsqueda secuencial en una lista.
+*Ordenamiento por burbuja.
+*Búsqueda binaria en un array ordenado.
+4. Implementar en pseudocódigo un algoritmo que calcule el factorial de un número.
+   **Solucion**
+   1. Algoritmo: num_par_impar
+   ESCRIBIR "que numero quieres comprobar?"
+   LEER N
+   SI  N/2 
+   SI resultado es 0
+   ESCRIBIR "el numero es par"
+   FINsi 
+   SI no
+   ESCRIBIR "el numero es impar"
+   FINsi
+FIN
+2.![image](https://github.com/user-attachments/assets/6edea65c-076e-42c3-a0f2-fa3a0bdcde31)
+3.
